@@ -1,2 +1,6 @@
-# CSI3140-Lab1
-This is the repository for CSI3140 Lab 1. 
+# CSI3140-Labs
+This is the repository containing the labs for CSI3140 Summer 2024.
+
+#Contributors
+Nalan Kurnaz
+Lina Moussadek
